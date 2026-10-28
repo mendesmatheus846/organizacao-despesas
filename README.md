@@ -16,3 +16,5 @@ Compara valores vizinhos e troca suas posições quando estão fora de ordem.
 
 ## Quick Sort
 Escolhe um valor como pivô, separa os valores menores e maiores e repete o processo até ordenar a lista.
+
+O sistema permite cadastrar despesas pessoais e organizá-las em ordem crescente de valor utilizando os algoritmos Bubble Sort e Quick Sort
